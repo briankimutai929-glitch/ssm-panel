@@ -1,0 +1,12 @@
+{
+  "name": "ssm-panel-backend",
+  "version": "1.0.0",
+  "description": "Backend API for SSM Panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
